@@ -1,2 +1,1 @@
-# LUMINA
-INTERIOR WEBSITE
+LUMINA — A premium interior design and lifestyle website built with HTML, CSS, and JavaScript featuring curated collections, product filtering, wishlist functionality, journal content, dark mode, and LocalStorage persistence.
